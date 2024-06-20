@@ -24,10 +24,32 @@ features of python:-
 6) interpreted language (IMP)
 
 
-
 START:- 
 
 -> print("Hello Python") 
+
+
+Module is like a code library which can be used to borrow code written by somebody else in our python program.
+
+pip command 
+It is used to install python modules
+
+-> pip install pandas
+-> pip install numpy
+etc
+
+in code we use Import statement to use the modules
+
+-> import numpy 
+
+#Comments,escape and Print in python
+
+Comments:-
+#Hello everyone this section is commented 
+
+escape sequence '\'
+print("Hi python my name is \"XYZ\"")
+
 
 
 
