@@ -1,0 +1,33 @@
+Python was invented by guido van rossam in 1989  # DOB :- 1991 (date of adaptation)
+
+Python is a dynamically typed programming language 
+
+Functions from different languages 
+1) OOP from C++
+2) Scripting languages features from perl and shell script
+3) modular programming features from modula-3
+
+# Syntax from C and ABC language 
+
+Applications :-
+1) popular for in desktop apps
+2) web development (FLASK frame work)
+3) networking applications
+4) AI,ML,IOT
+
+features of python:-
+1) Simple and easy to learn 
+2) only 35 keywords 
+3) platform independent
+4) portability
+5) dynamically typied language 
+6) interpreted language (IMP)
+
+
+
+START:- 
+
+-> print("Hello Python") 
+
+
+
